@@ -1,0 +1,10 @@
+<webconf>
+	<port>8080</port>
+	<root>FichiersSiteWeb/</root>
+	<accept>192.168.0.0/17</accept>
+	<accept>10.11.47.0/24</accept>
+	<accept>10.11.12.0/24</accept>
+	<reject>10.12.0.0/24</reject>
+	<accesslog>accesslog.txt</accesslog>
+	<errorlog>errorlog.txt</errorlog>
+</webconf>

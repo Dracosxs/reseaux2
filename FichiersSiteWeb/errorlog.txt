@@ -1,0 +1,6 @@
+Date : 2023-06-08 - Heure : 11:06:37 - Adresse IP : 10.11.12.19 - Erreur : Erreur 404, erreur dossier introuvable
+Date : 2023-06-08 - Heure : 11:08:21 - Adresse IP : 10.11.12.19 - Erreur : Erreur 404, erreur dossier introuvable
+Date : 2023-06-08 - Heure : 11:09:34 - Adresse IP : 10.11.12.19 - Erreur : Erreur 403, Erreur IP : adresse IP inconnue.
+Date : 2023-06-08 - Heure : 11:13:06 - Adresse IP : 10.11.12.19 - Erreur : Erreur 403, Erreur IP : adresse IP inconnue.
+Date : 2023-06-08 - Heure : 11:13:49 - Adresse IP : 10.11.12.19 - Erreur : Erreur 403, Erreur IP : adresse IP refusée.
+Date : 2023-06-08 - Heure : 11:14:38 - Adresse IP : 10.11.12.19 - Erreur : Erreur 403, Erreur IP : adresse IP inconnue.
